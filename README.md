@@ -17,5 +17,5 @@ CREATE TABLE `employee` (
 ```
 
 4. Run `go run main.go`
-   5Open your favorite browser: http://localhost:8080 
+5. Open your favorite browser: http://localhost:8080 
 
